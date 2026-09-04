@@ -22,6 +22,10 @@ C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on 
 
 Open `ScintillaNET.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 2.0
+
 ## Attribution and provenance
 
 - **ScintillaNET bindings:** Garrett Serack
