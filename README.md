@@ -1,6 +1,6 @@
 # ScintillaNET v2.6 Source
 
-C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on Neil Hodgson's editor). ScintillaNET exposes the native SciLexer control as a .NET component; SCide is a sample docking IDE that also uses Weifen Luo's DockPanel Suite. Open ScintillaNET.sln in Visual Studio; this tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive.
+C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on Neil Hodgson's editor). ScintillaNET exposes the native SciLexer control as a .NET component; SCide is a sample docking IDE that also uses Weifen Luo's DockPanel Suite. Open ScintillaNET.sln in Visual Studio; this tree is a working copy of third-party source kept in my Historical Dev archive.
 
 **Source last updated:** 2014-02-18  
 **Language:** C#  
@@ -9,7 +9,7 @@ C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on 
 
 ## What it is
 
-C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on Neil Hodgson's editor). ScintillaNET exposes the native SciLexer control as a .NET component; SCide is a sample docking IDE that also uses Weifen Luo's DockPanel Suite. Open ScintillaNET.sln in Visual Studio; this tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive.
+C# WinForms wrapper for Scintilla (ScintillaNET 2.6 by Garrett Serack, based on Neil Hodgson's editor). ScintillaNET exposes the native SciLexer control as a .NET component; SCide is a sample docking IDE that also uses Weifen Luo's DockPanel Suite. Open ScintillaNET.sln in Visual Studio; this tree is a working copy of third-party source kept in my Historical Dev archive.
 
 ## Solution structure
 
