@@ -28,6 +28,8 @@ Open `ScintillaNET.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 - **ScintillaNET bindings:** Garrett Serack
 - **Scintilla editor:** Neil Hodgson
 - **DockPanel Suite:** Weifen Luo (`WeifenLuo.WinFormsUI.Docking.dll`)
