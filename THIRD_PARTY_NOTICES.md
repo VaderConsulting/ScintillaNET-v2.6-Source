@@ -7,5 +7,5 @@ This tree is **ScintillaNET 2.6** (a .NET WinForms wrapper around the Scintilla 
 - **DockPanel Suite** — Weifen Luo WinFormsUI Docking (`Libraries/WeifenLuo.WinFormsUI.Docking.dll`), used by the SCide sample.
 
 Original license terms apply; this repository does not claim authorship.
-Do not treat this repository as Dave Robinson / VaderConsulting MIT-licensed original work.
+Do not treat this repository as Dave Robinson / Vader Consulting MIT-licensed original work.
 VaderConsulting/Dave Robinson did not author the third-party portions identified above.
